@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="29.3.7">
   <diagram name="第 1 页" id="BMokaR3aHr81IRDZm2W1">
-    <mxGraphModel dx="4168" dy="2108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2605" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZYPrkhQtl39KbjLXPRL--1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="298" width="576" x="2619" y="257" as="geometry" />
         </mxCell>
-        <mxCell id="ZYPrkhQtl39KbjLXPRL--4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="学生模型 AudioCfC" vertex="1">
+        <mxCell id="ZYPrkhQtl39KbjLXPRL--4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="269" width="1850" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="ZYPrkhQtl39KbjLXPRL--5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="教师模型" vertex="1">
