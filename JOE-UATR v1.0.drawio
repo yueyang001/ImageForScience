@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="29.3.7">
   <diagram name="第 1 页" id="BMokaR3aHr81IRDZm2W1">
-    <mxGraphModel dx="2605" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4168" dy="2108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry height="269" width="1850" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="ZYPrkhQtl39KbjLXPRL--5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="教师模型" vertex="1">
-          <mxGeometry height="433" width="917" x="913" y="420" as="geometry" />
+          <mxGeometry height="433" width="917" x="913" y="407" as="geometry" />
         </mxCell>
         <mxCell id="ZYPrkhQtl39KbjLXPRL--6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="原始音频波形" vertex="1">
           <mxGeometry height="54" width="156" x="942" y="586" as="geometry" />
@@ -19,8 +19,13 @@
         <mxCell id="ZYPrkhQtl39KbjLXPRL--7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="160" width="326" x="1172" y="533" as="geometry" />
         </mxCell>
+        <mxCell id="DF9pru-uFSWDwFwQSGq3-1" edge="1" parent="1" source="ZYPrkhQtl39KbjLXPRL--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2140" y="613" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZYPrkhQtl39KbjLXPRL--9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="教师 logits" vertex="1">
-          <mxGeometry height="54" width="136" x="1620" y="585" as="geometry" />
+          <mxGeometry height="54" width="136" x="1623" y="586" as="geometry" />
         </mxCell>
         <mxCell id="ZYPrkhQtl39KbjLXPRL--10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="原始音频波形" vertex="1">
           <mxGeometry height="54" width="156" x="45" y="138" as="geometry" />
@@ -50,7 +55,7 @@
           <mxGeometry height="54" width="136" x="1607" y="159" as="geometry" />
         </mxCell>
         <mxCell id="ZYPrkhQtl39KbjLXPRL--21" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Tser序列蒸馏" vertex="1">
-          <mxGeometry height="54" width="114" x="2150" y="585" as="geometry" />
+          <mxGeometry height="54" width="114" x="2140" y="586" as="geometry" />
         </mxCell>
         <mxCell id="ZYPrkhQtl39KbjLXPRL--71" edge="1" parent="1" source="ZYPrkhQtl39KbjLXPRL--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;" target="ZYPrkhQtl39KbjLXPRL--26">
           <mxGeometry relative="1" as="geometry">
@@ -131,9 +136,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ZYPrkhQtl39KbjLXPRL--44" edge="1" parent="1" source="ZYPrkhQtl39KbjLXPRL--9" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="ZYPrkhQtl39KbjLXPRL--21" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZYPrkhQtl39KbjLXPRL--46" edge="1" parent="1" source="ZYPrkhQtl39KbjLXPRL--19" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.44;entryY=0;rounded=0;" target="ZYPrkhQtl39KbjLXPRL--21" value="">
           <mxGeometry relative="1" as="geometry">
